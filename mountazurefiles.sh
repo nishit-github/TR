@@ -7,7 +7,7 @@
 # $5 - username
 
 # For more details refer to https://azure.microsoft.com/en-us/documentation/articles/storage-how-to-use-files-linux/
-
+sudo -s
 # update package lists
 yum -y update
 
